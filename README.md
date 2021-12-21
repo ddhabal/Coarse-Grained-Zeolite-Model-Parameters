@@ -1,5 +1,5 @@
 # Coarse-Grained-Zeolite-Model-Parameters
-Final set of parameters for the model is mentioned here [[1]](#1).
+Final set of parameters for the model are mentioned here [[1]](#1).
 
 ## References
 <a id="1">[1]</a> 
